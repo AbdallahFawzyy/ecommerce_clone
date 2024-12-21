@@ -1,0 +1,4 @@
+enum DateIntervalType {
+  monthly,
+  yearly,
+}
